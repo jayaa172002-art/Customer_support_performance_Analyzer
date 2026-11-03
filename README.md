@@ -78,6 +78,6 @@ Canon EOS, Philips Hue Lights, Fitbit Charge have highest SLA breach (40+ each).
 
 **Quantified Impact:**
 If we automate just 30% of Refund tickets (∼1,030 tickets), we save ∼8,350 hours/year, reduce SLA Breach from 16.48% to ∼11%
-and improve CSAT from 2.99 to ∼3.2.5.
+and improve CSAT from 2.99 to ∼3.2
 **Tech Stack:**
 Python (Pandas), PostgreSQL (pgAdmin), Power BI
